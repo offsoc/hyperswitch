@@ -31,7 +31,7 @@ quick-xml = { version = "0.31.0", features = ["serialize"] }
 rand = "0.8.5"
 regex = "1.10.4"
 reqwest = { version = "0.11.27" }
-ring = "0.17.8"
+ring = "0.17.12"
 roxmltree = "0.19.0"
 serde = { version = "1.0.197", features = ["derive"] }
 serde_json = "1.0.115"
